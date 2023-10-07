@@ -25,9 +25,12 @@ My ultimate goal is to travel more, and I leverage my coding and photography ski
 ## 🌟 Let's Connect
 
 If you share any of these passions or if you have exciting projects or ideas to collaborate on, I'd love to connect with you! Feel free to reach out.
+[![GitHub](https://img.shields.io/badge/GitHub-premganesh0-blue)](https://github.com/premganesh0)
+[![YouTube](https://img.shields.io/badge/YouTube-dustytires-red)](https://www.youtube.com/dustytires)
+[![Instagram](https://img.shields.io/badge/Instagram-prem._ganesh-orange)](https://www.instagram.com/prem._ganesh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-premganesh--darabala-blue)](https://www.linkedin.com/in/premganesh-darabala-249251221/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-premganesh2655-green)](https://www.freelancer.in/u/premganesh2655)
+[![Facebook](https://img.shields.io/badge/Facebook-prem.ganesh.522-blue)](https://www.facebook.com/prem.ganesh.522/)
 
-- GitHub: [Your GitHub Profile Link](https://github.com/premganesh0)
-- YouTube: [Your YouTube Channel Link](https://www.youtube.com/dustytires)
-- Instagram: [@prem._ganesh](https://www.instagram.com/prem._.ganesh/)
 
 Let's make the world a more exciting and innovative place together! 🚀
